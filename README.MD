@@ -29,4 +29,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - MySQL
 - Bootstrap
 
-## Conheça os site: [Ir para o site 🌐](https://gabrielcaetano-habits.vercel.app/)
+## Conheça os site: [Ir para o site 🌐](https://gabrielcaetano.000webhostapp.com/index.php)
