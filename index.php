@@ -12,7 +12,7 @@
         <div class="container-fluid">
             <img src="https://www.pecuariabrasilassessoria.com.br/img/logo_3.png" width="150px" class="px-2" alt="">
             <a class="navbar-brand px-1" href="#" style="color: white;">Cadastro</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
