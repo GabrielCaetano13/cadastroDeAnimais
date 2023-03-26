@@ -58,8 +58,8 @@
             echo "<tr>";
                 echo "<td>".$row->id_pesagem."</td>";
                 echo "<td>".$row->id_animal."</td>";
-                echo "<td>".$row->data_pesagem."</td>";
-                echo "<td class='peso-animal'>".$row->peso."</td>";
+                echo "<td class='data-pesagem'>".$row->data_pesagem."</td>";
+                echo "<td class='peso-animal'>".$row->peso." kg</td>";
                 echo "<td class='ganho-perda'></td>";
                 echo "<td>
                         <button onclick=\"location.href='?page=editar-pesagem&id_pesagem=".$row->id_pesagem."';\" class='btn btn-success'>
