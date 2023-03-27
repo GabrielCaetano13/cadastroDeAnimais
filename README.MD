@@ -5,18 +5,16 @@ Projeto desenvolvido para o cadastro de animais e suas pesagens, fazendo o contr
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="home page" src="./assets/images/home-preview.PNG" width="100%">
-  <img alt="página de cadastro" src="./assets/images/cadastro-preview.PNG" width="100%">
-  <img alt="página de listar os animais" src="./assets/images/lista-de-animais-preview.PNG" width="100%">
-  <img alt="página de cadastro de peso" src="./assets/images/peso-preview.PNG" width="100%">
+  <img alt="home page" src="./assets/images/preview-home.PNG" width="100%">
+  <img alt="página de cadastro" src="./assets/images/preview-cadastro.PNG" width="100%">
+  <img alt="página de listar os animais" src="./assets/images/preview-list.PNG" width="100%">
+  <img alt="página de cadastro de peso" src="./assets/images/preview-peso.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
